@@ -1,17 +1,17 @@
-# Head first - Java (Use a cabeça! Java)
+# Head first - Java (Book)
 
-Este repositório é para o armazenamento de exercícios do livro _Head first - Java_, que é um livro didático para o aprendizado de programação orientada a objetos (OO) e Java. 
+This repository is for storing exercises from the book _Head first - Java_, which is a textbook for learning object-oriented programming (OOP) and Java. 
 
 ****
 
-## Alguns tópicos-chave abordados:
+## Some key topics covered:
 
--   A linguagem Java;
--   O desenvolvimento orientado a objetos;
--   A criação, o teste e a implantação de aplicativos;
--   O uso da biblioteca do API Java;
--   A manipulação de exceções;
--   O uso de vários segmentos;
--   A programação de GUI com o Swing;
--   A rede com RMI e soquetes;
--   Os conjuntos e tipos genéricos.
+-   The Java language;
+-   The object-oriented development;
+-   The creation, testing and deployment of applications;
+-   The use of the Java API library;
+-   Handling exceptions;
+-   The use of multiple segments;
+-   GUI programming with Swing;
+-   The network with RMI and sockets;
+-   The sets and generic types.
